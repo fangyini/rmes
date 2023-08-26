@@ -1,0 +1,8 @@
+CASME_sq/
+SOFTNet_Weights/
+Utils/shape_predictor_68_face_landmarks.dat
+__pycache__/
+RieszPyramid/
+SAMMLV/
+BestWeights/
+ydentity/
